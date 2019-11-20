@@ -14,12 +14,12 @@ Another critical aspect of Leray models for the LES of incompressible flows at m
 
 * J. Leray. Sur le mouvement d’un liquide visqueux emplissant l’espace. Acta mathematica, 63(1):193–248, 1934.
 * W. Layton, C. C. Manica, M. Neda, and L. G. Rebholz. Numerical analysis and computational testing of a high accuracy leray-deconvolution model of turbulence. Numerical Methods for Partial Differential Equations: An International Journal, 24(2):555–582, 2008.
-L. Bertagna, A. Quaini, and A. Veneziani. Deconvolution-based nonlinear filtering for incompressible flows at moderately large reynolds numbers. International Journal for Numerical Methods in Fluids, 2015.
-H. Xu, M. Piccinelli, B. G. Leshnower, A. Lefieux, W. R. Taylor, and A. Veneziani. Coupled morphological–hemodynamic computational analysis of type b aortic dissection: A longitudinal study. Annals of Biomedical Engineering, pages 1–13, 2018.
-L. Bertagna, A. Quaini, L. G. Rebholz, and A. Veneziani. On the sensitivity to the filtering radius in leray models of incompressible flow. In Contributions to Partial Differential Equations and Applications, pages 111–130. Springer, 2019.
-H. Xu, D. Baroli, F. Massimo, A. Quaini, A. Veneziani. Backflow Stabilization by Deconvolution-based Large Eddy Simulation Modeling. Journal of Computational Physics (In press), 2019.
-H. P. Langtangen and A. Logg. Solving PDEs in Python: The FEniCS Tutorial I. Springer, 2016.
-J. Blechta, M. Řehoř, Fenapack2016, http://dx.doi.org/10.5281/zenodo.56754.
+* L. Bertagna, A. Quaini, and A. Veneziani. Deconvolution-based nonlinear filtering for incompressible flows at moderately large reynolds numbers. International Journal for Numerical Methods in Fluids, 2015.
+* H. Xu, M. Piccinelli, B. G. Leshnower, A. Lefieux, W. R. Taylor, and A. Veneziani. Coupled morphological–hemodynamic computational analysis of type b aortic dissection: A longitudinal study. Annals of Biomedical Engineering, pages 1–13, 2018.
+* L. Bertagna, A. Quaini, L. G. Rebholz, and A. Veneziani. On the sensitivity to the filtering radius in leray models of incompressible flow. In Contributions to Partial Differential Equations and Applications, pages 111–130. Springer, 2019.
+* H. Xu, D. Baroli, F. Massimo, A. Quaini, A. Veneziani. Backflow Stabilization by Deconvolution-based Large Eddy Simulation Modeling. Journal of Computational Physics (In press), 2019.
+* H. P. Langtangen and A. Logg. Solving PDEs in Python: The FEniCS Tutorial I. Springer, 2016.
+* J. Blechta, M. Řehoř, Fenapack2016, http://dx.doi.org/10.5281/zenodo.56754.
 
 ## Acknowledgment
 The work is supported by the National Science Foundation through grants NSF-DMS1620406/162038 (PIs: Alessandro Veneziani and Annalisa Quaini) and TG-ASC160069 (PI: Alessandro Veneziani).
