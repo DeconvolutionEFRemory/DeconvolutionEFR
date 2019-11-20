@@ -8,4 +8,4 @@ H. Xu, M. Piccinelli, B. G. Leshnower, A. Lefieux, W. R. Taylor, and A. Venezian
 
 L. Bertagna, A. Quaini, L. G. Rebholz, and A. Veneziani. On the sensitivity to the filtering radius in leray models of incompressible flow. In Contributions to Partial Differential Equations and Applications, pages 111–130. Springer, 2019.
 
-H. Xu, F. Massimo, D. Baroli, A. Quaini, A. Veneziani. Backflow Stabilization by Deconvolution-based Large Eddy Simulation Modeling. Journal of Computational Physics (In revision), 2019.
+H. Xu, D. Baroli, F. Massimo, A. Quaini, A. Veneziani. Backflow Stabilization by Deconvolution-based Large Eddy Simulation Modeling. Journal of Computational Physics (In press), 2019.
