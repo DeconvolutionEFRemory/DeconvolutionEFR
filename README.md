@@ -3,7 +3,7 @@ Implementation of the Leray-alpha-EFR model for incompressible flows.
 
 This package implements a Large Eddy Simulation (LES) model based on the Leray model for the incompressible flow with moderate large Reynolds numbers (at the range of a few thousands). The Leray model was originally proposed as a regularization of the Navier-Stokes equations and more recently attracted attention as a large eddy simulation model  This package implements a deconvolution-based Leray model using a Evolve-Filter-Relax scheme. Not only does the model have localized stabilization with high order of accuracy, but also it is able to stabilize the backflow instability appear in certain flow applications, such as hemodynamics, with the appropriate choice of model parameters, see  for details of the model and for its applications.
 
-This package builds on the parallel finite element library FEniCS for the discretization of the partial differential equations, FENaPack \cite{Blechta2016Fenapack} for preconditioning and PETSc for scalable linear solvers. This package supports structured/unstructured (2D/3D) meshes in XDMF fromat, a YAML based input file format for user settings and the XDMF file format for visualization.
+This package builds on the parallel finite element library FEniCS for the discretization of the partial differential equations, FENaPack for preconditioning and PETSc for scalable linear solvers. This package supports structured/unstructured (2D/3D) meshes in XDMF fromat, a YAML based input file format for user settings and the XDMF file format for visualization.
 
 The effectiveness of the filter in the Leray models is the key to the success of the model. This package provides the implementation of the Van Cittert-Helmholtz deconvolution filter  with arbitrarily high orders of the approximated deconvolution. 
 
@@ -22,4 +22,4 @@ Another critical aspect of Leray models for the LES of incompressible flows at m
 * J. Blechta, M. Řehoř, Fenapack2016, http://dx.doi.org/10.5281/zenodo.56754.
 
 ## Acknowledgment
-The work is supported by the National Science Foundation through grants NSF-DMS1620406/162038 (PIs: Alessandro Veneziani and Annalisa Quaini) and TG-ASC160069 (PI: Alessandro Veneziani).
+This work is supported by the National Science Foundation through grants NSF-DMS1620406/162038 (PIs: Alessandro Veneziani and Annalisa Quaini) and TG-ASC160069 (PI: Alessandro Veneziani).
