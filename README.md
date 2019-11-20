@@ -10,7 +10,7 @@ The effectiveness of the filter in the Leray models is the key to the success of
 Another critical aspect of Leray models for the LES of incompressible flows at moderately large Reynolds number is the selection of the filter radius. This drives the effective regularization of the filtering procedure, and its selection is a trade-off between stability (the larger, the better) and accuracy (the smaller, the better). This package also provides the implementation of the adjoint equations of the model with respect to the filter radius for the local sensitivity analysis.
 
 
-## Reference
+## References
 
 * J. Leray. Sur le mouvement d’un liquide visqueux emplissant l’espace. Acta mathematica, 63(1):193–248, 1934.
 * W. Layton, C. C. Manica, M. Neda, and L. G. Rebholz. Numerical analysis and computational testing of a high accuracy leray-deconvolution model of turbulence. Numerical Methods for Partial Differential Equations: An International Journal, 24(2):555–582, 2008.
